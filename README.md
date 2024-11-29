@@ -1,5 +1,13 @@
 To implement message broadcasting across servers using Redis Pub/Sub in a Star Topology, you will need to complete a few prerequisites. Here's a breakdown of the setup steps:
 
+# RedisPublisher
+
+<img width="741" alt="Screenshot 2024-11-29 at 6 38 21 PM" src="https://github.com/user-attachments/assets/26de3df9-916c-4942-8ca8-0ea8f8f88b34">
+
+# RedisSubscriber
+
+<img width="733" alt="Screenshot 2024-11-29 at 6 38 32 PM" src="https://github.com/user-attachments/assets/33b895e9-14d4-4e99-ac53-c08fca41243c">
+
 ### Prerequisites
 
 #### 1. **Install Redis**
